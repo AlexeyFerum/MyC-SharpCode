@@ -1,0 +1,47 @@
+E:\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe.config
+E:\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe
+E:\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.pdb
+E:\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.dll
+E:\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.pdb
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csprojResolveAssemblyReference.cache
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.MainForm.resources
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.Properties.Resources.resources
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.GenerateResource.Cache
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.CoreCompileInputs.cache
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.exe
+E:\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.pdb
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe.config
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.pdb
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.dll
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.pdb
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csprojResolveAssemblyReference.cache
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.MainForm.resources
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.Properties.Resources.resources
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.GenerateResource.Cache
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.exe
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.pdb
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe.config
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.pdb
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.dll
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.pdb
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csprojResolveAssemblyReference.cache
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.MainForm.resources
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.Properties.Resources.resources
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.GenerateResource.Cache
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.exe
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe.config
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\DachnikVERSUS.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\bin\Debug\LibraryForThird.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.MainForm.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.Properties.Resources.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.GenerateResource.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\CottagerVERSUSMoles.csproj.CopyComplete
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\DachnikVERSUS\obj\Debug\DachnikVERSUS.pdb

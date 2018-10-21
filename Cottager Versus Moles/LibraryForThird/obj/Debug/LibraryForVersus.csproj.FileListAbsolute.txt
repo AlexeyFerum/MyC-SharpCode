@@ -1,0 +1,21 @@
+E:\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.dll
+E:\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.pdb
+E:\ThirdProgram\LibraryForThird\obj\Debug\LibraryForVersus.csprojResolveAssemblyReference.cache
+E:\ThirdProgram\LibraryForThird\obj\Debug\LibraryForVersus.csproj.CoreCompileInputs.cache
+E:\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.dll
+E:\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.pdb
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.dll
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.pdb
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\LibraryForThird\obj\Debug\LibraryForVersus.csprojResolveAssemblyReference.cache
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.dll
+C:\Users\алексей\Downloads\ThirdProgram\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.pdb
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.dll
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.pdb
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.dll
+D:\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\bin\Debug\LibraryForThird.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForVersus.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForVersus.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Дачник versus Кроты\ThirdProgram\LibraryForThird\obj\Debug\LibraryForThird.pdb
