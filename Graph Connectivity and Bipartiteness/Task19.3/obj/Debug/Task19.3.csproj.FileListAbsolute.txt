@@ -1,0 +1,65 @@
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\bin\Debug\Task19.3.exe.config
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\bin\Debug\Task19.3.exe
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\bin\Debug\Task19.3.pdb
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\obj\Debug\Task19.3.csprojResolveAssemblyReference.cache
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.Cache
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\obj\Debug\Task19.3.exe
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\Task19.3\obj\Debug\Task19.3.pdb
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\bin\Debug\Task19.3.exe.config
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19.3.exe
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19.3.pdb
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\bin\Debug\Task19.3.exe
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\bin\Debug\Task19.3.pdb
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19.3.csprojResolveAssemblyReference.cache
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.Cache
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\bin\Debug\GraphLibrary.dll
+C:\Users\Test\Dropbox\Current\АиСД\Att3\Task19.3\bin\Debug\GraphLibrary.pdb
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\bin\Debug\Task19.3.exe.config
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19.3.exe
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19.3.pdb
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\bin\Debug\Task19.3.exe
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\bin\Debug\Task19.3.pdb
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\bin\Debug\GraphLibrary.dll
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\bin\Debug\GraphLibrary.pdb
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19.3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+\\Mac\Home\Desktop\Att3\Att3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.Cache
+D:\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe.config
+D:\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe
+D:\GraphAtt3\Task19.3\bin\Debug\Task19.3.pdb
+D:\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.dll
+D:\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.pdb
+D:\GraphAtt3\Task19.3\obj\Debug\Task19.3.csprojResolveAssemblyReference.cache
+D:\GraphAtt3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+D:\GraphAtt3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+D:\GraphAtt3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.Cache
+D:\GraphAtt3\Task19.3\obj\Debug\Task19.3.exe
+D:\GraphAtt3\Task19.3\obj\Debug\Task19.3.pdb
+D:\SolutionAtt3\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe.config
+D:\SolutionAtt3\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe
+D:\SolutionAtt3\GraphAtt3\Task19.3\bin\Debug\Task19.3.pdb
+D:\SolutionAtt3\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.dll
+D:\SolutionAtt3\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.pdb
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19.3.csprojResolveAssemblyReference.cache
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.Cache
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19.3.exe
+D:\SolutionAtt3\GraphAtt3\Task19.3\obj\Debug\Task19.3.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe.config
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.dll
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.csproj.GenerateResource.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.csproj.CopyComplete
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.exe
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.pdb

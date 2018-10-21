@@ -1,0 +1,13 @@
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe.config
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.exe
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\Task19.3.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.dll
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\bin\Debug\GraphLibrary.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Graph Task.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19._3.MainForm.resources
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19._3.Properties.Resources.resources
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Graph Task.csproj.GenerateResource.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Graph Task.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Graph Task.csproj.CopyComplete
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.exe
+D:\AlexFerum\Загрузки\GraphAtt3\Task19.3\obj\Debug\Task19.3.pdb

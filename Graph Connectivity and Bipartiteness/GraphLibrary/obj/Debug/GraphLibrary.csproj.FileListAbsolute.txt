@@ -1,0 +1,31 @@
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\Test\Documents\Visual Studio 2015\Projects\Att3\GraphLibrary\obj\Debug\GraphLibrary.pdb
+C:\Users\Test\Dropbox\Current\АиСД\Att3\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\Test\Dropbox\Current\АиСД\Att3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\Test\Dropbox\Current\АиСД\Att3\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Test\Dropbox\Current\АиСД\Att3\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\Test\Dropbox\Current\АиСД\Att3\GraphLibrary\obj\Debug\GraphLibrary.pdb
+\\Mac\Home\Desktop\Att3\Att3\GraphLibrary\bin\Debug\GraphLibrary.dll
+\\Mac\Home\Desktop\Att3\Att3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+\\Mac\Home\Desktop\Att3\Att3\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Att3\Att3\GraphLibrary\obj\Debug\GraphLibrary.dll
+\\Mac\Home\Desktop\Att3\Att3\GraphLibrary\obj\Debug\GraphLibrary.pdb
+D:\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.dll
+D:\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+D:\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+D:\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.dll
+D:\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.pdb
+D:\SolutionAtt3\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+D:\SolutionAtt3\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.dll
+D:\SolutionAtt3\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.pdb
+D:\SolutionAtt3\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.dll
+D:\SolutionAtt3\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.dll
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\bin\Debug\GraphLibrary.pdb
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.dll
+D:\AlexFerum\Загрузки\GraphAtt3\GraphLibrary\obj\Debug\GraphLibrary.pdb
