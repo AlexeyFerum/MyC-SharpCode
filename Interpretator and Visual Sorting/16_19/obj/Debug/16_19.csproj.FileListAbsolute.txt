@@ -1,0 +1,55 @@
+Z:\Задачи программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.exe.config
+Z:\Задачи программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.exe
+Z:\Задачи программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.pdb
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.csprojResolveAssemblyReference.cache
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\_16_19.Properties.Resources.resources
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\_16_19.SortForm.resources
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.csproj.GenerateResource.Cache
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.exe
+Z:\Задачи программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\16_19.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\_16_19.Properties.Resources.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\_16_19.SortForm.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\16_19.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\16_19.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\bin\Debug\16_19.exe.config
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\bin\Debug\16_19.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\bin\Debug\16_19.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\obj\Debug\16_19.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\16_19\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\bin\Debug\16_19.exe.config
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\16_19.exe
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\16_19.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\bin\Debug\16_19.exe
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\bin\Debug\16_19.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\16_19.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\_16_19.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\_16_19.SortForm.resources
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\16_19\obj\Debug\16_19.csproj.GenerateResource.Cache
+Z:\Задачи программирование\C#\Attastasion 2\16_19\bin\Debug\BL.dll
+Z:\Задачи программирование\C#\Attastasion 2\16_19\bin\Debug\BL.pdb
+F:\Программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.exe.config
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.exe
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.pdb
+F:\Программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.exe
+F:\Программирование\C#\Attastasion 2\16_19\bin\Debug\16_19.pdb
+F:\Программирование\C#\Attastasion 2\16_19\bin\Debug\BL.dll
+F:\Программирование\C#\Attastasion 2\16_19\bin\Debug\BL.pdb
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.csprojResolveAssemblyReference.cache
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\_16_19.Properties.Resources.resources
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\_16_19.SortForm.resources
+F:\Программирование\C#\Attastasion 2\16_19\obj\Debug\16_19.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\bin\Debug\16_19.exe.config
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\bin\Debug\16_19.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\bin\Debug\16_19.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\16_19.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\_16_19.Properties.Resources.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\_16_19.SortForm.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\16_19.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\16_19.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\16_19\obj\Debug\16_19.pdb

@@ -1,0 +1,44 @@
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\bin\Debug\17_4.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\bin\Debug\17_4.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\17_4.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\_17_4.ExpessionForm.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\_17_4.Properties.Resources.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\17_4.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\17_4.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\17_4\obj\x86\Debug\17_4.pdb
+Z:\Задачи программирование\C#\Attastasion 2\17_4\bin\Debug\17_4.exe
+Z:\Задачи программирование\C#\Attastasion 2\17_4\bin\Debug\17_4.pdb
+Z:\Задачи программирование\C#\Attastasion 2\17_4\bin\Debug\BL.dll
+Z:\Задачи программирование\C#\Attastasion 2\17_4\bin\Debug\BL.pdb
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\17_4.csprojResolveAssemblyReference.cache
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\_17_4.ExpessionForm.resources
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\_17_4.Properties.Resources.resources
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\17_4.csproj.GenerateResource.Cache
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\17_4.exe
+Z:\Задачи программирование\C#\Attastasion 2\17_4\obj\x86\Debug\17_4.pdb
+G:\Программирование\C#\Attestation 2\17_4\obj\x86\Debug\17_4.exe
+G:\Программирование\C#\Attestation 2\17_4\obj\x86\Debug\17_4.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\17_4.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\17_4.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\bin\Debug\17_4.exe
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\bin\Debug\17_4.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\17_4.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\_17_4.ExpessionForm.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\_17_4.Properties.Resources.resources
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\17_4\obj\x86\Debug\17_4.csproj.GenerateResource.Cache
+D:\AlexFerum\Загрузки\Attestation 2\17_4\bin\Debug\17_4.exe
+D:\AlexFerum\Загрузки\Attestation 2\17_4\bin\Debug\17_4.pdb
+D:\AlexFerum\Загрузки\Attestation 2\17_4\bin\Debug\BL.dll
+D:\AlexFerum\Загрузки\Attestation 2\17_4\bin\Debug\BL.pdb
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\_17_4.ExpessionForm.resources
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\_17_4.Properties.Resources.resources
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.csproj.GenerateResource.cache
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.csproj.CopyComplete
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.exe
+D:\AlexFerum\Загрузки\Attestation 2\17_4\obj\x86\Debug\17_4.pdb

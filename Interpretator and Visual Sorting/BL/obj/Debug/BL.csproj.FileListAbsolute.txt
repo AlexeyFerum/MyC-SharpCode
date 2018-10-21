@@ -1,0 +1,31 @@
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\BL\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\BL\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\BL\obj\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\BL\obj\Debug\BL.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\BL\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\BL\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\BL\obj\Debug\BL.dll
+C:\Users\Настя\Documents\Visual Studio 2010\Projects\Attastasion 2\BL\obj\Debug\BL.pdb
+Z:\Задачи программирование\C#\Attastasion 2\BL\bin\Debug\BL.dll
+Z:\Задачи программирование\C#\Attastasion 2\BL\bin\Debug\BL.pdb
+Z:\Задачи программирование\C#\Attastasion 2\BL\obj\Debug\BL.dll
+Z:\Задачи программирование\C#\Attastasion 2\BL\obj\Debug\BL.pdb
+F:\Программирование\C#\Attastasion 2\BL\bin\Debug\BL.dll
+F:\Программирование\C#\Attastasion 2\BL\bin\Debug\BL.pdb
+F:\Программирование\C#\Attastasion 2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+F:\Программирование\C#\Attastasion 2\BL\obj\Debug\BL.dll
+F:\Программирование\C#\Attastasion 2\BL\obj\Debug\BL.pdb
+Z:\Задачи программирование\C#\Attastasion 2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attastasion 2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\BL\obj\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\BL\bin\Debug\BL.dll
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\BL\bin\Debug\BL.pdb
+C:\Users\Настя\Documents\Универ\Программирование\С#\Attestation 2\BL\obj\Debug\BL.pdb
+D:\AlexFerum\Загрузки\Attestation 2\BL\bin\Debug\BL.dll
+D:\AlexFerum\Загрузки\Attestation 2\BL\bin\Debug\BL.pdb
+D:\AlexFerum\Загрузки\Attestation 2\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\Attestation 2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\Attestation 2\BL\obj\Debug\BL.dll
+D:\AlexFerum\Загрузки\Attestation 2\BL\obj\Debug\BL.pdb
