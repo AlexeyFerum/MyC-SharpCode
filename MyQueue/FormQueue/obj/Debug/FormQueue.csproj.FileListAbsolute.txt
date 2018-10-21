@@ -1,0 +1,38 @@
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe.config
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\bin\Debug\FormQueue.pdb
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\bin\Debug\LB.dll
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\bin\Debug\LB.pdb
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.csprojResolveAssemblyReference.cache
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.Properties.Resources.resources
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.GenerateResource.Cache
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.CoreCompileInputs.cache
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.exe
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.pdb
+C:\Users\алексей\source\repos\JuliaQueue\FormQueue\obj\Debug\FormQueue.FormQueue.resources
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe.config
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.pdb
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\LB.dll
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\LB.pdb
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csprojAssemblyReference.cache
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.FormQueue.resources
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.Properties.Resources.resources
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.GenerateResource.cache
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.CoreCompileInputs.cache
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.CopyComplete
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.exe
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csprojAssemblyReference.cache
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.FormQueue.resources
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.Properties.Resources.resources
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.GenerateResource.cache
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.CoreCompileInputs.cache
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.exe
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe.config
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.exe
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\FormQueue.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\LB.dll
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\bin\Debug\LB.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\FormQueue\obj\Debug\FormQueue.csproj.CopyComplete

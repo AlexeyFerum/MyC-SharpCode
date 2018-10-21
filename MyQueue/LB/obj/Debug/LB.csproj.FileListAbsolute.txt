@@ -1,0 +1,18 @@
+C:\Users\алексей\source\repos\JuliaQueue\LB\bin\Debug\LB.dll
+C:\Users\алексей\source\repos\JuliaQueue\LB\bin\Debug\LB.pdb
+C:\Users\алексей\source\repos\JuliaQueue\LB\obj\Debug\LB.csprojResolveAssemblyReference.cache
+C:\Users\алексей\source\repos\JuliaQueue\LB\obj\Debug\LB.csproj.CoreCompileInputs.cache
+C:\Users\алексей\source\repos\JuliaQueue\LB\obj\Debug\LB.dll
+C:\Users\алексей\source\repos\JuliaQueue\LB\obj\Debug\LB.pdb
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\bin\Debug\LB.dll
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\bin\Debug\LB.pdb
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.csprojAssemblyReference.cache
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.csproj.CoreCompileInputs.cache
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.dll
+C:\Users\AlFerum\Downloads\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\bin\Debug\LB.dll
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\bin\Debug\LB.pdb
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.csprojAssemblyReference.cache
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.csproj.CoreCompileInputs.cache
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.dll
+C:\Users\алексей\Downloads\Julia Queue\JuliaQueue\JuliaQueue\LB\obj\Debug\LB.pdb
