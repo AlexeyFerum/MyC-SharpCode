@@ -1,0 +1,13 @@
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\bin\Debug\Form18_33.exe.config
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\bin\Debug\Form18_33.exe
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\bin\Debug\Form18_33.pdb
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\bin\Debug\LB.dll
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\bin\Debug\LB.pdb
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form18_33.FormThirdTree.resources
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form18_33.Properties.Resources.resources
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form.csproj.GenerateResource.cache
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form.csproj.CopyComplete
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form18_33.exe
+D:\AlexFerum\Загрузки\TreeAtt3\Form18_33\obj\Debug\Form18_33.pdb

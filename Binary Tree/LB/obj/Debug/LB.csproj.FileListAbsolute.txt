@@ -1,0 +1,16 @@
+D:\SolutionAtt3\SolutionAtt3\LB\bin\Debug\LB.dll
+D:\SolutionAtt3\SolutionAtt3\LB\bin\Debug\LB.pdb
+D:\SolutionAtt3\SolutionAtt3\LB\obj\Debug\LB.csprojResolveAssemblyReference.cache
+D:\SolutionAtt3\SolutionAtt3\LB\obj\Debug\LB.dll
+D:\SolutionAtt3\SolutionAtt3\LB\obj\Debug\LB.pdb
+D:\SolutionAtt3\TreeAtt3\LB\bin\Debug\LB.dll
+D:\SolutionAtt3\TreeAtt3\LB\bin\Debug\LB.pdb
+D:\SolutionAtt3\TreeAtt3\LB\obj\Debug\LB.csprojResolveAssemblyReference.cache
+D:\SolutionAtt3\TreeAtt3\LB\obj\Debug\LB.dll
+D:\SolutionAtt3\TreeAtt3\LB\obj\Debug\LB.pdb
+D:\AlexFerum\Загрузки\TreeAtt3\LB\bin\Debug\LB.dll
+D:\AlexFerum\Загрузки\TreeAtt3\LB\bin\Debug\LB.pdb
+D:\AlexFerum\Загрузки\TreeAtt3\LB\obj\Debug\LB.csprojAssemblyReference.cache
+D:\AlexFerum\Загрузки\TreeAtt3\LB\obj\Debug\LB.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Загрузки\TreeAtt3\LB\obj\Debug\LB.dll
+D:\AlexFerum\Загрузки\TreeAtt3\LB\obj\Debug\LB.pdb

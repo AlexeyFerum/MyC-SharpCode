@@ -1,0 +1,16 @@
+Cucumber
+Rice
+Tomato
+Potatoes
+Carrot
+Onion
+Garlic
+Raspberry
+Cherry
+Meat
+Sausage
+Egg
+Oil
+Bread
+Apple
+Pineapple
