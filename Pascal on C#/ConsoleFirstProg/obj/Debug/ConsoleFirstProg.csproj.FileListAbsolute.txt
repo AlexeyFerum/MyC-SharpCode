@@ -1,0 +1,34 @@
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe.config
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.pdb
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.dll
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.pdb
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.exe
+C:\Users\User\Downloads\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.pdb
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe.config
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.pdb
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.dll
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.pdb
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csprojResolveAssemblyReference.cache
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.exe
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.pdb
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe.config
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.pdb
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.dll
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.pdb
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csprojResolveAssemblyReference.cache
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.exe
+D:\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe.config
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\ConsoleFirstProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\bin\Debug\LBFirst.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.csproj.CopyComplete
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\ConsoleFirstProg\obj\Debug\ConsoleFirstProg.pdb

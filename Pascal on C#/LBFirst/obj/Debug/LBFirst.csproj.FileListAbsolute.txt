@@ -1,0 +1,22 @@
+D:\Программирование 3й семестр\Первая аттестация\FirstProg\LBFirst\obj\Debug\LBFirst.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FirstProg\FirstProg\LBFirst\bin\Debug\LBFirst.dll
+C:\Users\User\Downloads\FirstProg\FirstProg\LBFirst\bin\Debug\LBFirst.pdb
+C:\Users\User\Downloads\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.dll
+C:\Users\User\Downloads\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.pdb
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\LBFirst\bin\Debug\LBFirst.dll
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\LBFirst\bin\Debug\LBFirst.pdb
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.csprojResolveAssemblyReference.cache
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.dll
+C:\Users\алексей\Downloads\FirstProg\FirstProg\FirstProg\LBFirst\obj\Debug\LBFirst.pdb
+D:\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.csprojResolveAssemblyReference.cache
+D:\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.dll
+D:\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.pdb
+D:\Программирование 3й семестр\FirstProg\LBFirst\bin\Debug\LBFirst.dll
+D:\Программирование 3й семестр\FirstProg\LBFirst\bin\Debug\LBFirst.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\bin\Debug\LBFirst.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\bin\Debug\LBFirst.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\FirstProg\LBFirst\obj\Debug\LBFirst.pdb

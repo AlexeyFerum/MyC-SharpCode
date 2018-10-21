@@ -1,0 +1,2 @@
+Create library for saving / reading objects in a typed (in terms of Pascal language) file / from file.
+It is necessary to develop a set of classes that provide work with typed files as in the Pascal language.
