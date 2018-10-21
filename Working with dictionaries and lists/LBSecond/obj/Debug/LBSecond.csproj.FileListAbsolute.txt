@@ -1,0 +1,17 @@
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\bin\Debug\LBSecond.dll
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\bin\Debug\LBSecond.pdb
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.csprojResolveAssemblyReference.cache
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.dll
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\bin\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\bin\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\LBSecond\obj\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\bin\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\bin\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\obj\Debug\LBSecond.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\obj\Debug\LBSecond.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\obj\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\LBSecond\obj\Debug\LBSecond.pdb

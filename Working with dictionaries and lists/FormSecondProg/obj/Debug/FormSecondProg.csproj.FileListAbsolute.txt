@@ -1,0 +1,37 @@
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe.config
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.pdb
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\LBSecond.dll
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\LBSecond.pdb
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csprojResolveAssemblyReference.cache
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.FormSecondProg.resources
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.Properties.Resources.resources
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.GenerateResource.Cache
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.exe
+D:\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe.config
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\bin\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.FormSecondProg.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.Properties.Resources.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.GenerateResource.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.CopyComplete
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\Первая аттестация\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe.config
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\bin\Debug\FormSecondProg.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\bin\Debug\LBSecond.dll
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\bin\Debug\LBSecond.pdb
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csprojAssemblyReference.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.FormSecondProg.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.Properties.Resources.resources
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.GenerateResource.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.csproj.CopyComplete
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.exe
+D:\AlexFerum\Especially to see!\Программирование 3й семестр\SecondProg\FormSecondProg\obj\Debug\FormSecondProg.pdb
