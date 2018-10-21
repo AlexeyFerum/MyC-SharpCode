@@ -1,0 +1,6 @@
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\obj\Debug\ConsoleSearch.csprojResolveAssemblyReference.cache
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\bin\Debug\ConsoleSearch.exe.config
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\bin\Debug\ConsoleSearch.exe
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\bin\Debug\ConsoleSearch.pdb
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\obj\Debug\ConsoleSearch.exe
+D:\Дискретка\DiskretAlgorithms\ConsoleSearch\obj\Debug\ConsoleSearch.pdb

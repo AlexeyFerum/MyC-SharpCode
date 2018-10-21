@@ -1,0 +1,139 @@
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.exe
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.exe
+C:\Users\rudin\Desktop\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Граф\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph1\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\Павел\Desktop\Graph1\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\bin\Debug\Graph1.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\bin\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\bin\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\Graph1.FormGraph.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph\Graph1\obj\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph\Graph1\bin\Debug\Graph1.exe
+C:\Users\Павел\Desktop\Graph\Graph1\bin\Debug\Graph1.pdb
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\Павел\Desktop\Graph\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+C:\Users\rudin\Desktop\Graph\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\rudin\Desktop\Graph\Graph1\bin\Debug\Graph1.exe
+C:\Users\rudin\Desktop\Graph\Graph1\bin\Debug\Graph1.pdb
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\Graph1.exe
+C:\Users\rudin\Desktop\Graph\Graph1\obj\Debug\Graph1.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\bin\Debug\Graph1.exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\Graph1.exe
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\Graph1.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\bin\Debug\Graph1.exe
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\bin\Debug\Graph1.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\Graph1.FormGraph.resources
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+J:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\bin\Debug\Graph1.exe.config
+J:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.exe
+J:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\bin\Debug\Graph1.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\bin\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\bin\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.FormGraph.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph's(4 задачи)\Graph1\obj\Debug\Graph1.pdb
+J:\Методы обхода\Graph1\bin\Debug\Graph1.exe.config
+J:\Методы обхода\Graph1\obj\Debug\Graph1.exe
+J:\Методы обхода\Graph1\obj\Debug\Graph1.pdb
+J:\Методы обхода\Graph1\bin\Debug\Graph1.exe
+J:\Методы обхода\Graph1\bin\Debug\Graph1.pdb
+J:\Методы обхода\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+J:\Методы обхода\Graph1\obj\Debug\Graph1.FormGraph.resources
+J:\Методы обхода\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+J:\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Методы обхода\Graph1\bin\Debug\Graph1.exe.config
+E:\Методы обхода\Graph1\bin\Debug\Graph1.exe
+E:\Методы обхода\Graph1\bin\Debug\Graph1.pdb
+E:\Методы обхода\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+E:\Методы обхода\Graph1\obj\Debug\Graph1.FormGraph.resources
+E:\Методы обхода\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+E:\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+E:\Методы обхода\Graph1\obj\Debug\Graph1.exe
+E:\Методы обхода\Graph1\obj\Debug\Graph1.pdb
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe.config
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.pdb
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.FormGraph.resources
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.exe
+C:\Users\алексей\Downloads\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.pdb
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe.config
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.pdb
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csprojResolveAssemblyReference.cache
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.FormGraph.resources
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.Cache
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.exe
+D:\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.pdb
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe.config
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.exe
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\bin\Debug\Graph1.pdb
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csprojAssemblyReference.cache
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.FormGraph.resources
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.GenerateResource.cache
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\GraphTask.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.exe
+D:\AlexFerum\Дискретка\Алгоритмы Прима и Краскала\Методы обхода\Graph1\obj\Debug\Graph1.pdb

@@ -1,0 +1,13 @@
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.exe.config
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.exe
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.pdb
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.csprojResolveAssemblyReference.cache
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.exe
+D:\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.pdb
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.exe.config
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.exe
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\bin\Debug\ConsoleSort.pdb
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.csprojAssemblyReference.cache
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.csproj.CoreCompileInputs.cache
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.exe
+D:\AlexFerum\Дискретка\DiskretAlgorithms\ConsoleSort\obj\Debug\ConsoleSort.pdb
